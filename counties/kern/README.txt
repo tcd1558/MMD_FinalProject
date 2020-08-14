@@ -1,0 +1,20 @@
+belridge-elementary-2017.csv - missing 2018, using 2017
+blake-elementary-2017.csv - missing 2018, using 2017
+buttonwillow-union-elementary-2017.csv - missing 2018, using 2017
+delano-union-elementary-2017.csv - missing 2018, using 2017
+di-giorgio-elementary-2017.csv - missing 2018, using 2017
+elk-hills-elementary-2017.csv - missing 2018, using 2017
+el-tejon-unified-2017.csv - missing 2018, using 2017
+general-shafter-elementary-2017.csv - missing 2018, using 2017
+lakeside unions - last 2013 skipped
+linns-valley-poso-flat-union-2017.csv - missing 2018, using 2017
+lost-hills-union-elementary-2017.csv - missing 2018, using 2017
+maple-elementary-2017.csv - missing 2018, using 2017
+mckittrick-elementary-2017.csv - missing 2018, using 2017
+north-kern-vocational-training-center-2017.csv - missing 2018, using 2017
+pond-union-elementary-2017.csv - missing 2018, using 2017
+rio bravo-greeley union elementary - last 2013, skipped
+rosedale-union-elementary-2016.csv - missing 2017, using 2016
+semitropic-elementary-2017.csv - missing 2018, using 2017
+vineland-elementary-2017.csv - missing 2018, using 2017
+wasco-union-high-2017.csv - missing 2018, using 2017
