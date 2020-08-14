@@ -1,0 +1,114 @@
+City,County,State,CostOfLiving
+Los Angeles,Los Angeles,California,142.6
+San Diego,San Diego,California,138.6
+San Jose,Santa Clara,California,151.4
+San Francisco,San Francisco,California,162.5
+Fresno,Fresno,California,110.3
+Sacramento,Sacramento,California,120.5
+Long Beach,Los Angeles,California,142.6
+Anaheim,Orange,California,142.1
+Antioch,Contra Costa,California,141.3
+Apple Valley,San Bernardino,California,113.2
+Bakersfield,Kern,California,112.6
+Berkeley,Alameda,California,141.3
+Burbank,Los Angeles,California,142.6
+Carlsbad,San Diego,California,132.0
+Carson,Los Angeles,California,142.6
+Chico,Butte,California,118.5
+Chula Vista,San Diego,California,138.6
+Coachella,Riverside,California,125.9
+Concord,Contra Costa,California,141.3
+Corona,Riverside,California,113.2
+Costa Mesa,Orange,California,142.1
+Daly City,San Mateo,California,162.5
+Downey,Los Angeles,California,142.6
+El Cajon,San Diego,California,138.6
+El Monte,Los Angeles,California,142.6
+Elk Grove,Sacramento,California,120.5
+Escondido,San Diego,California,131.5
+Fairfield,Solano,California,141.6
+Fontana,San Bernardino,California,113.2
+Fremont,Alameda,California,143.3
+Fullerton,Orange,California,142.1
+Garden Grove,Orange,California,142.1
+Glendale,Los Angeles,California,142.6
+Hayward,Alameda,California,143.3
+Huntington Beach,Orange,California,142.6
+Inglewood,Los Angeles,California,142.6
+Irvine,Orange,California,142.1
+Lancaster,Los Angeles,California,127.0
+Lompoc,Santa Barbara,California,123.1
+Modesto,Stanislaus,California,122.6
+Monterey,Monterey,California,144.7
+Moreno Valley,Riverside,California,113.2
+Murrieta,Riverside,California,132.8
+Newhall,Los Angeles,California,127.5
+Norwalk,Los Angeles,California,142.1
+Oakland,Alameda,California,141.3
+Oceanside,San Diego,California,132.0
+Ontario,San Bernardino,California,113.2
+Orange,Orange,California,142.1
+Oxnard,Ventura,California,124.8
+Palmdale,Los Angeles,California,127.3
+Pasadena,Los Angeles,California,109.6
+Petaluma,Sonoma,California,122.6
+Pomona,Los Angeles,California,142.1
+Rancho Cucamonga,San Bernardino,California,113.2
+Rialto,San Bernardino,California,113.2
+Riverside,Riverside,California,113.2
+Roseville,Placer,California,120.5
+Salinas,Monterey,California,144.7
+San Bernardino,San Bernardino,California,113.2
+Santa Ana,Orange,California,142.1
+Santa Barbara,Santa Barbara,California,125.3
+Santa Clara,Santa Clara,California,151.4
+Santa Clarita,Los Angeles,California,127.2
+Santa Cruz,Santa Cruz,California,139.9
+Santa Maria,Santa Barbara,California,126.8
+Santa Rosa,Sonoma,California,122.6
+Simi Valley,Ventura,California,126.4
+Stockton,San Joaquin,California,143.3
+Temecula,Riverside,California,132.5
+Thousand Oaks,Ventura,California,126.4
+Torrance,Los Angeles,California,142.6
+Vallejo,Solano,California,141.6
+Ventura,Ventura,California,124.8
+Victorville,San Bernardino,California,131.9
+Visalia,Tulare,California,109.0
+West Covina,Los Angeles,California,142.1
+
+Marysville,Yuba,California,120.5
+Woodland,Yolo,California,120.5
+Sonora,Tuolumne,California,118.5
+Weaverville,Trinity,California,114.5
+Red Bluff,Tehama,California,117.0
+Yuba City,Sutter,California,110.4
+Yreka,Siskiyou,California,94.5
+Downieville,Sierra,California,99.9
+Redding,Shasta,California,114.9
+San Luis Obispo,San Luis Obispo,California,119.5
+Hollister,San Benito,California,136.1
+Quincy,Plumas,California,99.8
+Nevada City,Nevada,California, 108.9
+Napa,Napa,California,143.3
+Bridgeport,Mono,California,93.7
+Alturas,Modoc,California,86.8
+Merced,Merced,California,131.6
+Ukiah,Mendocino,California,122.6
+Mariposa,Mariposa,California,121.1
+San Rafael,Marin,California,162.5
+Madera,Madera,California,101.9
+Susanville,Lassen,California,92.8
+Lakeport,Lake,California,122.6
+Hanford,Kings,California,109.3
+Independence,Inyo,California,106.3
+El Centro,Imperial,California,134.6
+Eureka,Humboldt,California,122.6
+Willows,Glenn,California,110.4
+Placerville,El Dorado,California,113.5
+Crescent City,Del Norte,California,86.8
+Colusa,Colusa,California,99.9
+San Andreas,Calaveras,California,125.9
+Jackson,Amador,California,120.5
+Markleeville,Alpine,California,111.8
+Oroville,Butte,California,118.5
